@@ -18,7 +18,7 @@ const allowedOrigins = [
   'http://127.0.0.1:5173',
   'http://localhost:3000',
   'http://192.168.43.93:3000',
-  'https://revolution2o.netlify.app/'
+  'https://revolution2o.netlify.app'
 ];
 
 const corsOptions = {
